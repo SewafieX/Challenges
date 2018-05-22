@@ -1,5 +1,5 @@
-'''Ask the user to input a list of numbers and and count the recurrences of a certain
-number, n'''
+'''Ask the user to input a list of numbers and count the recurrences of a certain
+number, n, in that list'''
 
 raw_list = input("Input list of numbers separated by commas: ")
 n = int(input("Input the value you're counting: "))
